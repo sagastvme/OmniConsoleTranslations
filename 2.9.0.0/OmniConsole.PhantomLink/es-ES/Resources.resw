@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="WidgetDisplayName" xml:space="preserve">
+    <value>0mniCharm</value>
+  </data>
+  <data name="WidgetDescription" xml:space="preserve">
+    <value>Widget de Game Bar de acceso rápido para alternar las funciones de OmniConsole dentro del juego.</value>
+  </data>
+  <data name="Widget_OpenTaskView.Text" xml:space="preserve">
+    <value>Vista de tareas</value>
+  </data>
+  <data name="Widget_TriggerSteamInGameOverlay.Text" xml:space="preserve">
+    <value>Interfaz de Steam</value>
+  </data>
+  <data name="Widget_OpenXboxLibrary.Text" xml:space="preserve">
+    <value>Biblioteca de Xbox</value>
+  </data>
+  <data name="Widget_SteamInGameOverlay_Title.Text" xml:space="preserve">
+    <value>Mantén pulsado &#xEDE3; para abrir la interfaz de Steam</value>
+  </data>
+  <data name="Widget_SteamInGameOverlay_On.Content" xml:space="preserve">
+    <value>Sí</value>
+  </data>
+  <data name="Widget_SteamInGameOverlay_Off.Content" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="Widget_SteamInGameOverlay_PlatformNote.Text" xml:space="preserve">
+    <value>Solo disponible cuando la plataforma predeterminada está configurada en Steam Big Picture.</value>
+  </data>
+  <data name="Widget_MouseMode_Title.Text" xml:space="preserve">
+    <value>Modo de ratón por mando</value>
+  </data>
+  <data name="Widget_Mode_Off.Content" xml:space="preserve">
+    <value>Desactivado</value>
+  </data>
+  <data name="Widget_Mode_Auto.Content" xml:space="preserve">
+    <value>Automático</value>
+  </data>
+  <data name="Widget_Mode_ForceOn.Content" xml:space="preserve">
+    <value>Forzar encendido</value>
+  </data>
+  <data name="Widget_Layout_Title.Text" xml:space="preserve">
+    <value>Distribución del mando</value>
+  </data>
+  <data name="Widget_CursorSpeed_Title.Text" xml:space="preserve">
+    <value>Velocidad del cursor</value>
+  </data>
+  <data name="Widget_BuiltInMappingNote.Text" xml:space="preserve">
+    <value>Desactivado — el dispositivo cuenta con mapeo de mando integrado.</value>
+  </data>
+  <data name="Widget_ForegroundApp_LineFormat" xml:space="preserve">
+    <value>Actual: {0} ({1})</value>
+  </data>
+  <data name="Widget_ForegroundApp_LineFormat_NoDesc" xml:space="preserve">
+    <value>Actual: {0}</value>
+  </data>
+  <data name="Widget_ForegroundApp_None" xml:space="preserve">
+    <value>Actual: —</value>
+  </data>
+  <data name="Widget_CustomizeApp.Content" xml:space="preserve">
+    <value>Personalizar el mapeo del mando para esta aplicación…</value>
+  </data>
+  <data name="Widget_CustomizeApp_ElevatedNote.Text" xml:space="preserve">
+    <value>Esta aplicación se ejecuta como administrador. El mapeo de mando no puede alcanzarla.</value>
+  </data>
+</root>
