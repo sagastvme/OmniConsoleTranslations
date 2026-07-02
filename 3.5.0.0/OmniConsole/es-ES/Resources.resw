@@ -296,23 +296,23 @@ Como alternativa, cambie el atajo a una tecla no modificadora en Configuración 
     <value>Ajuste la velocidad de movimiento del cursor en relación al valor predeterminado (100%).</value>
   </data>
   <data name="BackgroundMaterialSetting_Title.Text" xml:space="preserve">
-    <value>Background Material</value>
-  <comment>untranslated:new</comment></data>
+    <value>Material de fondo</value>
+  </data>
   <data name="BackgroundMaterialSetting_Description.Text" xml:space="preserve">
-    <value>Choose the background material.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Elige el material de fondo.</value>
+  </data>
   <data name="BackgroundMaterialSetting_Note.Text" xml:space="preserve">
-    <value>Requires Windows transparency effects to be enabled.</value>
-  <comment>untranslated:new</comment></data>
+    <value>Requiere que los efectos de transparencia de Windows estén activados.</value>
+  </data>
   <data name="BackgroundMaterialItem_PhantomClassic" xml:space="preserve">
     <value>Phantom Classic</value>
-  <comment>untranslated:new</comment></data>
+  </data>
   <data name="BackgroundMaterialItem_PhantomGlass" xml:space="preserve">
     <value>Phantom Glass</value>
-  <comment>untranslated:new</comment></data>
+  </data>
   <data name="BackgroundMaterialItem_PhantomGlassDeep" xml:space="preserve">
     <value>Phantom Glass Deep</value>
-  <comment>untranslated:new</comment></data>
+  </data>
   <data name="AdvancedSection_GameBar.Text" xml:space="preserve">
     <value>Game Bar</value>
   </data>
